@@ -1,4 +1,4 @@
-# DJLougen/Ornstein-26B-A4B-it-FP8 - Private, Uncensored AI for Real Creators and Devs
+# DJLougen/Ornstein-26B-A4B-it-FP8  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
